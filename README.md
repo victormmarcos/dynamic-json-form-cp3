@@ -1,5 +1,11 @@
 # Formulários Dinâmicos com React Native
 
+## Integrantes
+
+- Arthur Bueno - RM 558396
+- João Carotta - RM 555187
+- Victor Marcos - RM 556729
+
 ## Descrição
 
 Aplicativo mobile desenvolvido em React Native com TypeScript para o Checkpoint 3.
@@ -77,9 +83,3 @@ src/
 
 <img width="801" height="761" alt="Captura de tela 2026-05-18 212658" src="https://github.com/user-attachments/assets/cb205317-1fae-48d3-8b1b-0a94963a8692" />
 
-
-## Integrantes
-
-- Arthur Bueno - RM 558396
-- João Carotta - RM 555187
-- Victor Marcos — RM 556729
