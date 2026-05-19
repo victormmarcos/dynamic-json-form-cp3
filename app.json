@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Formulários Dinâmicos",
+    "slug": "dynamic-json-form-cp3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
