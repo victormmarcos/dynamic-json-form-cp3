@@ -73,14 +73,10 @@ src/
 
 ## Prints da aplicação
 
-Adicione aqui os prints da aplicação rodando em Android, iOS ou Web antes de entregar.
+<img width="845" height="773" alt="Captura de tela 2026-05-18 212625" src="https://github.com/user-attachments/assets/bbe96f84-b84b-43a9-87e3-1da445e6351e" />
 
-Exemplo:
+<img width="801" height="761" alt="Captura de tela 2026-05-18 212658" src="https://github.com/user-attachments/assets/cb205317-1fae-48d3-8b1b-0a94963a8692" />
 
-```md
-![Tela inicial](./docs/print-home.png)
-![Resultado salvo](./docs/print-resultado.png)
-```
 
 ## Integrantes
 
